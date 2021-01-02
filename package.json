@@ -1,0 +1,19 @@
+{
+  "name": "jquery.pause",
+  "version": "3.0.3",
+  "description": "An old jQuery plugin to pause and resume animations (NOT compatible with current jQuery)",
+  "main": "jquery.pause.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heydon-consulting/Pause.git"
+  },
+  "author": "Tobia",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/heydon-consulting/Pause/issues"
+  },
+  "homepage": "https://github.com/heydon-consulting/Pause#readme"
+}
